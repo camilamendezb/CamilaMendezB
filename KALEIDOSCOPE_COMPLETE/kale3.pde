@@ -1,4 +1,5 @@
 class kale3 extends Anim {
+//INTERACTION SCENE 
 
  void loop(PGraphics target) {
   file = new SoundFile (this, "tale.mp3");

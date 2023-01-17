@@ -1,5 +1,7 @@
 class kale2 extends Anim {
 
+  
+  // COLORFULL RAINBOW SCENE 
  void loop(PGraphics target) {
    
    

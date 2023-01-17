@@ -1,6 +1,6 @@
 class kale4 extends Anim {
   
-  
+  //DRAW SCENE 
  void loop(PGraphics target) {
    
   int previewScale = 8;

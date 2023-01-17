@@ -108,9 +108,9 @@ void keyPressed() {
      else if (key == '1') anim1 = new kale1();
   else if (key == '2') anim1 = new kale2();
   else if (key == '3') anim2 = new kale3();
-  else if (key == '4') anim2 = new kale4();
-  else if (key == '4') anim2 = new kale5();
-  else if (key == 'r') 
+  else if (key == '4') anim3 = new kale4();
+  else if (key == '4') anim4 = new kale5();
+  else if (key == 'r') anim1= new kale1();
     led.beginDraw();
     led.background(0);
     led.endDraw();

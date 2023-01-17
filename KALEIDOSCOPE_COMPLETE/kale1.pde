@@ -1,5 +1,5 @@
 class kale1 extends Anim {
-
+//MOVING SCENE 1 
   void loop(PGraphics target) {
 
     float x = map(cos(frameCount * 0.021), -1, 1, 0, 155);
